@@ -45,6 +45,7 @@ const Navbar = () => {
             }}
           >
             {cartQuantity}
+            
           </div>
         </Button>
       </Container>
